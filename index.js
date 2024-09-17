@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 const botConfig = {
   host: 'Huevosdibu1.aternos.me', // IP del servidor
   port: 54687,       // Puerto del servidor
-  username: 'JinTest224', // Nombre del bot
+  username: 'holasoyelpapu', // Nombre del bot
   version: '1.20'      // Deja false para autodetectar la versión
 };
 
